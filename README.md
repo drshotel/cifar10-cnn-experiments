@@ -1,4 +1,4 @@
-# CIFAR-10 CNN Experiments
+<img width="4032" height="785" alt="image" src="https://github.com/user-attachments/assets/a24a7e74-33a6-4474-bf71-bee4eca8bd50" /># CIFAR-10 CNN Experiments
 
 A Convolutional Neural Network (CNN) built with PyTorch for image classification on the CIFAR-10 dataset. This project explores the effects of Batch Normalization, Dropout, and Learning Rate selection on model performance.
 
@@ -193,3 +193,8 @@ Potential improvements include:
 - Hyperparameter tuning
 - Transfer learning
 
+## Feedback
+
+I'm a second-year Software Engineering student learning machine learning.
+
+If you notice areas where the model, experiments, or code could be improved, I'd love to hear your suggestions. Feedback and constructive criticism are always appreciated.
