@@ -200,3 +200,11 @@ Potential improvements include:
 I'm a second-year Software Engineering student learning machine learning.
 
 If you notice areas where the model, experiments, or code could be improved, I'd love to hear your suggestions. Feedback and constructive criticism are always appreciated.
+
+## Note
+
+This project was developed as part of my machine learning learning journey.
+
+AI was used in this project in order to assist with generating code. However, all of the experimentations and analysis were performed by me. 
+
+The primary goal of this project was to understand CNNs, PyTorch workflows, and machine learning experimentation through hands-on implementation.
