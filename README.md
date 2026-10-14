@@ -1,4 +1,4 @@
-CIFAR-10 CNN Experiments
+# CIFAR-10 CNN Experiments
 
 A Convolutional Neural Network (CNN) built with PyTorch for image classification on the CIFAR-10 dataset. This project explores the effects of Batch Normalization, Dropout, and Learning Rate selection on model performance.
 
