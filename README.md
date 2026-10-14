@@ -144,9 +144,11 @@ Evaluate the effect of dropout on model generalization.
 | No Dropout | 75.0% |
 | Dropout (0.5) | 69.5% |
 
+> **Note:** These dropout results should be interpreted with caution. I only tracked validation accuracy during this experiment and did not record training accuracy, making it difficult to evaluate whether dropout reduced overfitting. Future experiments should compare both training and validation accuracy.
+
 ### Conclusion
 
-In this experiment, dropout reduced validation accuracy. This suggests that a dropout rate of 0.5 may have been too aggressive for the architecture, causing underfitting and limiting performance.
+In this experiment, dropout reduced validation accuracy. This suggests that a dropout rate of 0.5 may have been too aggressive for the architecture, causing underfitting and limiting performance. 
 
 ---
 
